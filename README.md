@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quiz Leaderboard System
 
 Java-based solution for the SRM Internship Assignment.
@@ -131,3 +132,6 @@ Edit `REG_NO` in `Main.java` before running:
 ```java
 private static final String REG_NO = "RA2311003030305";
 ```
+=======
+# Bajaj
+>>>>>>> 4b932f16cedf9bea15c478d0c7eee09f2c6be862
