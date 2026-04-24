@@ -1,0 +1,6 @@
+com\nirmit\quiz\QuizService.class
+com\nirmit\quiz\Main.class
+com\nirmit\quiz\model\Event.class
+com\nirmit\quiz\ApiClient.class
+com\nirmit\quiz\model\LeaderboardEntry.class
+com\nirmit\quiz\model\QuizResponse.class
