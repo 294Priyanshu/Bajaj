@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Quiz Leaderboard System
 
 Java-based solution for the SRM Internship Assignment.
@@ -55,7 +55,7 @@ Bob -> 295
 Alice -> 280
 Charlie -> 260
 Total Score: 835
-Submission Response: {"regNo":"RA2311003030305","totalPollsMade":...,"submittedTotal":835,"attemptCount":...}}
+Submission Response: {"regNo":"RA2311003030294","totalPollsMade":...,"submittedTotal":835,"attemptCount":...}}
 ```
 
 ---
@@ -130,7 +130,7 @@ src/
 
 Edit `REG_NO` in `Main.java` before running:
 ```java
-private static final String REG_NO = "RA2311003030305";
+private static final String REG_NO = "RA2311003030294";
 ```
 =======
 # Bajaj
