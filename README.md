@@ -43,7 +43,7 @@ mvn compile
 
 ### 3. Run the application
 ```bash
-mvn exec:java -Dexec.mainClass="com.nirmit.quiz.Main"
+mvn exec:java -Dexec.mainClass="com.priyanshu.quiz.Main"
 ```
 
 > **Note:** The run takes ~50 seconds because it polls the API 10 times with a 5-second delay between each poll.
@@ -92,7 +92,7 @@ mvn package
 
 Run the JAR directly:
 ```bash
-java -cp target/quiz-leaderboard-system-1.0-SNAPSHOT.jar;target/dependency/* com.nirmit.quiz.Main
+java -cp target/quiz-leaderboard-system-1.0-SNAPSHOT.jar;target/dependency/* com.priyanshu.quiz.Main
 ```
 
 ---
@@ -101,7 +101,7 @@ java -cp target/quiz-leaderboard-system-1.0-SNAPSHOT.jar;target/dependency/* com
 
 ```
 src/
-├── main/java/com/nirmit/quiz/
+├── main/java/com/priyanshu/quiz/
 │   ├── Main.java               # Entry point
 │   ├── ApiClient.java          # HTTP calls to the validator API
 │   ├── QuizService.java        # Core leaderboard logic
