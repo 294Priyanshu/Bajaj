@@ -109,7 +109,7 @@ src/
 │       ├── Event.java          # Represents a single quiz event
 │       ├── LeaderboardEntry.java
 │       └── QuizResponse.java   # API response model
-└── test/java/com/nirmit/quiz/
+└── test/java/com/priyanshu/quiz/
     └── QuizServiceTest.java    # Unit + integration tests
 ```
 
